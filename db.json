@@ -1,0 +1,24 @@
+{
+    "cep": [
+        {
+            "code": "88115-200",
+            "state": "SC",
+            "city": "São José",
+            "district": "Serraria",
+            "address": "Rua Wenceslau Evaristo Silva",
+            "status": 200,
+            "ok": true,
+            "statusText": "ok"
+        },
+        {
+            "code": "88085-375",
+            "state": "SC",
+            "city": "Florianópolis",
+            "district": "Itaguaçu",
+            "address": "Servidão Otávio dos Santos",
+            "status": 200,
+            "ok": true,
+            "statusText": "ok"
+        }
+    ]
+}
